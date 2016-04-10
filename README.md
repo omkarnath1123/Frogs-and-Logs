@@ -1,0 +1,2 @@
+# Frogs-and-Logs
+Using paper cut-outs and a writing utensil, you can play test game concepts before writing any code. Many game designers will create “paper mockups” of games, because it’s easy to iterate on an idea quickly.  Design a simple game and create a paper mockup. Even if you’re creating an action-oriented first-person game, it may be helpful to design levels from a top-down perspective and navigate them with a placeholder (like a coin, for example). These types of exercises can help you visualize the mechanics of your game before doing any intense programming.
